@@ -29,7 +29,7 @@ android {
         targetCompatibility = JavaVersion.VERSION_11
     }
     kotlinOptions {
-        jvmTarget = "11"
+        jvmTarget = "17"
     }
 }
 
@@ -54,7 +54,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = "com.github.polaris428"
                 artifactId = "WavyCircleView"
-                version = "0.0.3"
+                version = "0.0.4"
             }
 
             // Creates a Maven publication called "debug".
@@ -64,7 +64,7 @@ afterEvaluate {
 
                 groupId = "com.github.polaris428"
                 artifactId = "WavyCircleView"
-                version = "0.0.3"
+                version = "0.0.4"
             }
         }
     }
