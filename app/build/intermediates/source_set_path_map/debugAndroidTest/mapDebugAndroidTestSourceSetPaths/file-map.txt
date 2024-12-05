@@ -1,0 +1,6 @@
+com.polaris.wavycircleview.test.app-annotation-experimental-1.3.0-0 C:\Users\iou10\.gradle\caches\8.9\transforms\563bb131cdc5b89be46cc0f74bbecd33\transformed\annotation-experimental-1.3.0\res
+com.polaris.wavycircleview.test.app-core-1.5.0-1 C:\Users\iou10\.gradle\caches\8.9\transforms\5c44ab06d5ac695f45672d017cef9841\transformed\core-1.5.0\res
+com.polaris.wavycircleview.test.app-androidTest-2 C:\Users\iou10\AndroidStudioProjects\WavyCircleView\app\build\generated\res\resValues\androidTest\debug
+com.polaris.wavycircleview.test.app-mergeDebugAndroidTestResources-3 C:\Users\iou10\AndroidStudioProjects\WavyCircleView\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.polaris.wavycircleview.test.app-mergeDebugAndroidTestResources-4 C:\Users\iou10\AndroidStudioProjects\WavyCircleView\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.polaris.wavycircleview.test.app-debugAndroidTest-5 C:\Users\iou10\AndroidStudioProjects\WavyCircleView\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

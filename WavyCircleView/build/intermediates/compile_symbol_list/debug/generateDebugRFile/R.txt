@@ -1,0 +1,9 @@
+int attr flowingColor 0x0
+int attr lineColor 0x0
+int attr progress 0x0
+int attr waveSpeed 0x0
+int[] styleable WavyCircleView { 0x0, 0x0, 0x0, 0x0 }
+int styleable WavyCircleView_flowingColor 0
+int styleable WavyCircleView_lineColor 1
+int styleable WavyCircleView_progress 2
+int styleable WavyCircleView_waveSpeed 3

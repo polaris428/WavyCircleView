@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+attr? flowingColor
+attr? lineColor
+attr? progress
+attr? waveSpeed
+styleable WavyCircleView flowingColor lineColor waveSpeed progress

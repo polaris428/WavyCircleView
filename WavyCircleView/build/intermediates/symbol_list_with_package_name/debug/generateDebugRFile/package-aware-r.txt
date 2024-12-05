@@ -1,0 +1,6 @@
+com.polaris.wavycircleview
+attr flowingColor
+attr lineColor
+attr progress
+attr waveSpeed
+styleable WavyCircleView flowingColor lineColor progress waveSpeed
