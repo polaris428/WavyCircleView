@@ -135,7 +135,7 @@ class WavyCircleView @JvmOverloads constructor(
         path.lineTo(-screenWidth.toFloat(), 0f)
         path.close()
         canvas.drawPath(path, wavePaint)
-        startPoint.x += 7
+        startPoint.x += flowingSpeed
         if (startPoint.x > 0) {
             startPoint.x = -screenWidth
         }
